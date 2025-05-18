@@ -1,0 +1,8 @@
+name: VibrantVisuals
+version: 1.0.0
+main: inotflying\VibrantVisuals\VibrantVisuals
+api: 5.0.0
+mcpe-protocol: 800
+website: https://github.com/inotflying/VibrantVisuals
+description: Allow Vibrant Visuals
+author: inotflying
